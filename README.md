@@ -1,1 +1,1 @@
-# leetcode_podd
+# leetcode_problem_of_the_day
